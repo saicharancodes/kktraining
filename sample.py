@@ -1,2 +1,2 @@
-print("hello world this initial project")
+print("hello world this second commit")
 
